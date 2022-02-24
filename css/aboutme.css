@@ -1,0 +1,36 @@
+body{
+    background-color: #4e4c41;
+    color: white;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: large;
+    text-align: justify;
+}
+h1,h2{
+    color: rgb(23, 169, 206);
+    font-family: 'Times New Roman', Times, serif;
+    
+}
+a{
+
+    color: red;
+    text-decoration: none;
+}
+a:hover{
+    text-decoration: underline;
+}
+p::first-letter{
+    font-size: 1.5em;
+}
+dt{
+    color: yellow;
+}
+li{
+    font-size: 1.2em;
+}
+h1{
+    text-align: center;
+    font-size: 36pt;
+}
+footer{
+    float: right;
+}
